@@ -7,7 +7,7 @@ CS undergrad | building projects | learning by breaking stuff
 
 ### 🎓 Education
 
-* **BSc / Undergraduate Major in Computer Science at the Open University of Sri Lanak**
+* **BSc / Undergraduate Major in Computer Science at the Open University of Sri Lanka**
 * Focus areas: programming, systems, problem-solving, and real-world projects
 
 ---
