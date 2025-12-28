@@ -16,7 +16,7 @@ CS undergrad | building projects | learning by breaking stuff
 
 * Web development (frontend + backend)
 * APIs, databases, auth, and backend logic
-* Learning by *doing*, not just watching tutorials
+* Learning by *doing*.
 * Exploring automation, internal tools, and practical software
 
 ---
