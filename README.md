@@ -1,66 +1,77 @@
+Hi 👋 I’m Avishka
 
-## Hi 👋 I’m Avishka
+CS undergrad | ICT & Systems | building real-world solutions | learning by breaking stuff
 
-CS undergrad | building projects | learning by breaking stuff
+🎓 Education
 
----
+BSc in Computer Science — The Open University of Sri Lanka
 
-### 🎓 Education
+Focus: systems, networking, programming, troubleshooting & applied IT
 
-* **BSc / Undergraduate Major in Computer Science at the Open University of Sri Lanka**
-* Focus areas: programming, systems, problem-solving, and real-world projects
+💻 What I’m Into
 
----
+ICT systems & IT support
 
-### 💻 What I’m Into
+Web development (frontend + backend)
 
-* Web development (frontend + backend)
-* APIs, databases, auth, and backend logic
-* Learning by *doing*.
-* Exploring automation, internal tools, and practical software
+Networking basics, OS management & troubleshooting
 
----
+APIs, databases, auth systems & backend logic
 
-### 🛠️ Tech Stack (so far)
+Learning by doing and fixing broken systems 😌
 
-* **Languages:** JavaScript, Python, Java (learning)
-* **Frontend:** HTML, CSS, React
-* **Backend:** Node.js, Express
-* **Databases:** MongoDB, MySQL (basics)
-* **Tools:** Git, GitHub, VS Code, Postman
+🛠️ Technical Stack
 
----
+Systems & Networking
 
-### 🚀 Currently Working On
+Windows installation & troubleshooting
 
-* Building small-to-medium projects to sharpen fundamentals
-* Improving backend skills & system understanding
-* Preparing for internships and entry-level roles
+Linux basic CLI & file systems
 
----
+LAN/WAN, IP addressing, DNS, DHCP fundamentals
 
-### 🧠 My Dev Philosophy
+Development
 
-* Ship > perfect
-* If it breaks, I learn
-* Google is a skill
-* Clean code beats fancy code
+JavaScript, Python, Java (learning)
 
----
+React, Node.js, Express
 
-### 📊 Goals
+MongoDB, MySQL
 
-* Land a solid internship
-* Build projects that actually solve problems
-* Grow from student → real-world developer
+Tools
 
----
+Git, GitHub, VS Code, Postman
 
-### 📫 Let’s Connect
+🚀 Currently Working On
 
-* LinkedIn: *https://www.linkedin.com/in/wm-avishka*
-* Email: *avishkapiyumantha@gmail.com*
+Improving system administration & networking skills
 
----
+Building MERN & automation-based projects
 
-> *Still learning. Still building. Still pushing to main.* 😌🔥
+Preparing for ICT / IT Support / Junior Developer internships
+
+🧠 My Tech Philosophy
+
+Fix > fear
+
+Ship > perfect
+
+If it breaks, I learn
+
+Clean systems > fancy systems
+
+📊 Goals
+
+Land a solid ICT / IT Support internship
+
+Build useful internal tools & automation projects
+
+Grow from student → real-world ICT professional
+
+📫 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/wm-avishka
+
+Email: avishkapiyumantha@gmail.com
+
+Still learning. Still fixing. Still pushing to main. 😌🔥
