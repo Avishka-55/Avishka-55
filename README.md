@@ -66,7 +66,7 @@ CS undergrad | Full-stack Developer | DevOps Learner | building by breaking thin
 
 * LinkedIn: https://www.linkedin.com/in/wm-avishka  
 * Email: avishkapiyumantha@gmail.com  
-* Portfolio: www.wmavishka.me
+* Portfolio: https://wmavishka.me
 
 ---
 
