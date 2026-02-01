@@ -1,73 +1,88 @@
-# Hi 👋 I’m Avishka
+# Hi 👋 I'm Avishka
 
-CS undergrad | Full-stack Developer | DevOps Learner | building by breaking things
+CS undergrad | Full-stack Developer | IT Support Specialist | building solutions by breaking things
 
 ---
 
 ## 🎓 Education
 
 * **BSc in Computer Science — The Open University of Sri Lanka**
-* Focus: programming, systems, backend engineering & real-world projects
+* GPA: 3.73 | Dean's Award recipient (2023/2024 & 2024/2025)
+* Focus: systems, networking, backend engineering & real-world problem-solving
 
 ---
 
-## 💻 What I’m Into
+## 💻 What I Do
 
-* Full-stack web development (frontend + backend)
-* APIs, databases, auth & backend logic
-* DevOps basics, Linux, automation & deployments
-* Building real systems.
+* **Full-stack development** — building web apps from frontend to backend
+* **IT support & systems** — troubleshooting, networks, OS configs & user support
+* **Automation** — scripting away repetitive tasks because life's too short
+* **DevOps basics** — Linux, deployments, CI/CD workflows
+* Bridging the gap between code and infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Development
-* JavaScript, Python, Java (learning)
-* React, Node.js, Express
+* JavaScript, Python, SQL
+* React, Node.js, Express (MERN stack)
 * MongoDB, MySQL
 
-### DevOps & Systems
-* Linux CLI, file systems  
-* Git, GitHub, CI/CD basics  
-* Basic server setup & deployments  
+### IT & Systems
+* **Operating Systems:** Windows (config, troubleshooting), Linux (CLI, bash scripting)
+* **Networking:** TCP/IP, DNS, DHCP, WiFi troubleshooting, basic network diagnostics
+* **Tools:** Git/GitHub, VS Code, Postman
+* **Support:** System maintenance, user account management, documentation
 
-### Tools
-* VS Code, Postman
+### AI & Productivity
+* ChatGPT, Claude AI, Gemini API integrations
+* MS Office Suite, Google Workspace
 
 ---
 
 ## 🚀 Currently Working On
 
-* Strengthening backend engineering skills  
-* Learning DevOps workflows & Linux automation  
-* Preparing for internships  
+* Strengthening backend engineering & DevOps skills
+* Building IT automation tools & scripts
+* Preparing for dev/IT internships (open to both!)
 
 ---
 
-## 🧠 My Dev Philosophy
+## 🔧 Featured Projects
 
-* Ship > perfect  
-* If it breaks, I learn  
-* Clean systems beat fancy systems  
-* Automation > repetition  
+* **MERN Authentication System** — secure user auth with JWT
+* **AI Chatbot** — built with Gemini API integration
+* **YouTube Clone** — full video platform with live API
+* **Real-time Chat App** — MERN stack with WebSocket
+* **System Scripts** — automation tools for IT tasks (check pinned repos)
+
+---
+
+## 🧠 My Philosophy
+
+* Ship > perfect
+* If it breaks, I learn
+* Automate everything that can be automated
+* Clean systems beat fancy systems
+* Help people solve problems (whether it's code or their WiFi 😅)
 
 ---
 
 ## 📊 Goals
 
-* Land a solid internship  
-* Build scalable real-world systems  
-* Grow from student → production engineer  
+* Land a solid internship (dev or IT support — I do both)
+* Build scalable systems & streamline IT operations
+* Grow from student → production-ready engineer
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-* LinkedIn: https://www.linkedin.com/in/wm-avishka  
-* Email: avishkapiyumantha@gmail.com  
+* LinkedIn: https://www.linkedin.com/in/wm-avishka
+* Email: avishkapiyumantha@gmail.com
 * Portfolio: https://wmavishka.me
 
 ---
 
-> *Still learning. Still shipping. Still pushing to main.* 😌🔥
+> *Still learning. Still shipping. Still fixing things that aren't broken.* 😌🔥
