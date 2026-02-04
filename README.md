@@ -81,7 +81,7 @@ CS undergrad | DevOps Learner | Full-stack Developer | IT Support Specialist | b
 
 * LinkedIn: https://www.linkedin.com/in/wm-avishka
 * Email: avishkapiyumantha@gmail.com
-* Portfolio: https://wmavishka.me
+* Portfolio: https://avishka.site
 
 ---
 
