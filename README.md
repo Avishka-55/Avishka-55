@@ -1,6 +1,6 @@
 # Hi 👋 I'm Avishka
 
-CS undergrad | Full-stack Developer | IT Support Specialist | building solutions by breaking things
+CS undergrad | DevOps Learner | Full-stack Developer | IT Support Specialist | building solutions by breaking things
 
 ---
 
