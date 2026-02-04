@@ -14,10 +14,10 @@ CS undergrad | DevOps Learner | Full-stack Developer | IT Support Specialist | b
 
 ## 💻 What I Do
 
+* **DevOps** — Linux, deployments, Docker, CI/CD workflows,NginX, Cloud, Kubernetes
 * **Full-stack development** — building web apps from frontend to backend
 * **IT support & systems** — troubleshooting, networks, OS configs & user support
 * **Automation** — scripting away repetitive tasks because life's too short
-* **DevOps basics** — Linux, deployments, CI/CD workflows
 * Bridging the gap between code and infrastructure
 
 ---
