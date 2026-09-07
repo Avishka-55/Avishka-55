@@ -7,7 +7,7 @@ CS undergrad | DevOps Learner | Full-stack Developer | IT Support Specialist | b
 ## 🎓 Education
 
 * **BSc in Computer Science — The Open University of Sri Lanka**
-* GPA: 3.73 | Dean's Award recipient (2023/2024 & 2024/2025)
+* GPA: 3.76 | Dean's Award recipient (2023/2024 & 2024/2025)
 * Focus: systems, networking, backend engineering & real-world problem-solving
 
 ---
